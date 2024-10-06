@@ -1,10 +1,7 @@
 #include<iostream>
 using namespace std;
-clss society{
-	
-}
-int main(){
-	cout<<"hello world"<<endl;
 
+int main(){
+	cout<<"hello world";
 	return 0;
 }
